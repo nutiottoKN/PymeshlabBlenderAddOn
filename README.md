@@ -9,7 +9,7 @@ Unfortunately, the add-on currently works only on Linux, as it crashes on Window
 ### 1. Using Flatpak Blender version 
 <sub> sudo ln -s /var/lib/flatpak/app/org.blender.Blender/x86_64/stable/active/files/blender/blender /usr/local/bin/blender </sub>
 ### 2. Install PyMeshLab python library under Blender
-<sub> sudo "/var/lib/flatpak/app/org.blender.Blender/x86_64/stable/active/files/blender/4.2/python/bin/python3.11" -m pip install pymeshlab </sub>
+<sup> sudo "/var/lib/flatpak/app/org.blender.Blender/x86_64/stable/active/files/blender/4.2/python/bin/python3.11" -m pip install pymeshlab </sup>
 ### 3. Adding the PyMeshlab Add-od to Blender
 ***1. Open Blender***
 ***2. Go to Edit -> Preferences -> Add-ons***
