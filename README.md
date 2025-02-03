@@ -11,7 +11,7 @@ Unfortunately, the add-on currently works only on Linux, as it crashes on Window
 ### 2. Install PyMeshLab python library under Blender
 <sup> sudo "/var/lib/flatpak/app/org.blender.Blender/x86_64/stable/active/files/blender/4.2/python/bin/python3.11" -m pip install pymeshlab </sup>
 ### 3. Adding the PyMeshlab Add-od to Blender
-***1. Open Blender***
-***2. Go to Edit -> Preferences -> Add-ons***
-***3. Install from Disk...***
+***1. Open Blender***\
+***2. Go to Edit -> Preferences -> Add-ons***\
+***3. Install from Disk...***\
 ***4. Enable Add-on***
